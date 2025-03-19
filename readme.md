@@ -34,8 +34,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
 ### 1. Clone Repository
 Clone repository ini ke komputer Anda:
 ```bash
-git clone https://github.com/username/crypto-price-prediction.git
-cd crypto-price-prediction
+git clone https://github.com/farasalgh/crypto-prediction.git
+cd crypto-prediction
 ```
 
 ### 2. Buat Virtual Environment
